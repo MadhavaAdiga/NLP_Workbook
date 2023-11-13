@@ -9,8 +9,6 @@
 * [Unsupervised Learning](doc/unsupervised_learning.md)
 * [Reinforcement Learning](doc/reinforcement_learning.md)
 
-![Alt text](img/classification.png)
-
 
 
 
